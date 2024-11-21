@@ -13,13 +13,15 @@ This repository contains the `render` program, a tool designed for rendering vis
 1. Update your `PATH` environment variable to include the CUDA binaries:
    ```bash
    export PATH=/usr/local/cuda-11.7/bin:${PATH}
-Navigate to the render directory:
 
+2. Navigate to the render directory:
 
-cd render
-Build the program using make:
+    ```bash
+    cd render
 
-make
+3. Build the program using make:
+   ```bash
+    make
 The compiled program will be available as ./render.
 
 Usage
