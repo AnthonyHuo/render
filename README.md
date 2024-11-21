@@ -22,20 +22,18 @@ This repository contains the `render` program, a tool designed for rendering vis
 3. Build the program using make:
    ```bash
     make
+
 The compiled program will be available as ./render.
 
-Usage
+##  Usage
 Running the Program
-To render the default scene, simply execute:
-
-
-./render
 
 Running the Snow Demo
 To run the snow demo:
 
+    ```bash
+    ./render snow
 
-./render snow
 Viewing Options
 For a full list of available options, use:
 
