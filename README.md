@@ -37,7 +37,3 @@ For a full list of available options, use:
 
    ```bash
    ./render --help
-
-
-
-
